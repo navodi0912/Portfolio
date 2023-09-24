@@ -703,6 +703,7 @@ strong {
 }
 
 .services-price-overlay {
+
   background: var(--secondary-color);
   border-bottom-left-radius: 100%;
   position: absolute;
